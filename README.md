@@ -1,1 +1,1 @@
-project repository for professor daines's fall 2015 computational fluid dynamics class and brigham young university - idaho. includes OpenFOAM tutorials, team cases, self check cases, and examples of problems done in class.
+project repository for professor daines's fall 2015 computational fluid dynamics class and brigham young university - idaho. includes OpenFOAM team cases, self check cases, and examples of problems done in class.
