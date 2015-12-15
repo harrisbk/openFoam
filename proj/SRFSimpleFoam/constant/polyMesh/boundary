@@ -21,20 +21,20 @@ FoamFile
     {
         type            patch;
         nFaces          800;
-        startFace       792828;
+        startFace       851307;
     }
     inlet
     {
         type            patch;
         nFaces          800;
-        startFace       793628;
+        startFace       852107;
     }
     right
     {
         type            cyclic;
         inGroups        1(cyclic);
         nFaces          2800;
-        startFace       794428;
+        startFace       852907;
         matchTolerance  0.0001;
         transform       rotational;
         neighbourPatch  left;
@@ -46,7 +46,7 @@ FoamFile
         type            cyclic;
         inGroups        1(cyclic);
         nFaces          2800;
-        startFace       797228;
+        startFace       855707;
         matchTolerance  0.0001;
         transform       rotational;
         neighbourPatch  right;
@@ -56,21 +56,21 @@ FoamFile
     innerWall
     {
         type            patch;
-        nFaces          2276;
-        startFace       800028;
+        nFaces          2366;
+        startFace       858507;
     }
     outerWall
     {
         type            patch;
         nFaces          1400;
-        startFace       802304;
+        startFace       860873;
     }
     blade
     {
         type            wall;
         inGroups        1(wall);
-        nFaces          79458;
-        startFace       803704;
+        nFaces          84967;
+        startFace       862273;
     }
 )
 
